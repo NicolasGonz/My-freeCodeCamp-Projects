@@ -1,0 +1,14 @@
+Thank you for taking the time to check out MyfreeCodeCampProjects!
+
+This website is a compilation of the 
+challenges and projects that I, NicolasGonz,
+accomplish during this learning process on 
+freeCodeCamp. Also, you'll find my obtained 
+certificates on Front End and Back End 
+(Coming Soon).
+
+Don't forget to check out the Contact Me
+section if you'd like to learn more about my
+professional background or for future hiring.
+
+Thank you & Enjoy!

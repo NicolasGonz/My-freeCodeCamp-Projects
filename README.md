@@ -1,6 +1,6 @@
 # My-freeCodeCamp-Projects
 
-My freeCodeCamp Projects is the platform where you can find all my solutions for the freeCodeCamp challenges, certificates and learn a little about me and my work, also in the last section you can find my contacts for future jobs.
+My freeCodeCamp Projects is the platform where you can find all my solutions for the freeCodeCamp challenges, certificates and learn a little about me and my work, also in the last section you can find my contacts for future job hirings.
 
 This website was designed by Luisina Banega (UI/UX) you can see her profiles:
 
